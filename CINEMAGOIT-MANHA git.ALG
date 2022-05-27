@@ -8,6 +8,10 @@ Var
    cliente,codcliente,teste,reserva,continua: caractere
    ValorBilhete:real
 
+   procedimento ()
+   escreval (" teste ")
+   
+
 procedimento cabecalho()
 inicio
    limpatela
